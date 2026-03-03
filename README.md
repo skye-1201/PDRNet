@@ -1,2 +1,2 @@
-# PRDNet
-Modality-specific Prototype based Representation Disentanglement Network for Modality-Missing Object Re-Identification
+# PDRNet
+Modality-Specific Prototypes for Disentangled Reconstruction in Missing-Modality Object Re-Identification
